@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-04-01",
+    "title": "Great Barrier Reef Travel Surge",
+    "content": "Tourists are visiting Queensland to explore the Great Barrier Reef.",
+    "category": "Beaches"
+  },
+  {
+    "date": "2026-04-02",
+    "title": "Blue Mountains Hiking Trails Popular",
+    "content": "NSW's Blue Mountains attract hikers and nature lovers.",
+    "category": "Mountains"
+  },
+  {
+    "date": "2026-04-03",
+    "title": "Melbourne City Breaks Increase",
+    "content": "Visitors enjoy food, art, and culture in Melbourne.",
+    "category": "Cities"
+  },
+  {
+    "date": "2026-04-04",
+    "title": "Sydney Opera House Events",
+    "content": "Cultural events in Sydney attract international tourists.",
+    "category": "Culture"
+  },
+  {
+    "date": "2026-04-05",
+    "title": "Tasmania Food Tours Growing",
+    "content": "Tasmania is becoming a hotspot for food tourism.",
+    "category": "Food"
+  },
+  {
+    "date": "2026-04-06",
+    "title": "Outback Adventure Experiences",
+    "content": "Travellers explore Australia's Outback for adventure trips.",
+    "category": "Adventure"
+  }
+]

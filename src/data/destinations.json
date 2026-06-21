@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Great Barrier Reef",
+    "category": "Ocean",
+    "description": "A world-famous reef in Queensland known for coral, marine life, and snorkelling.",
+    "image": "reef.jpg",
+    "location": "Queensland",
+    "lat": -18.2871,
+    "lon": 147.6992,
+    "likes": 12
+  },
+  {
+    "id": 2,
+    "name": "Falls Creek",
+    "category": "Mountain",
+    "description": "A popular alpine destination in Victoria for snow trips, skiing, and mountain views.",
+    "image": "fallscreek.jpg",
+    "location": "Victoria",
+    "lat": -36.8652,
+    "lon": 147.2775,
+    "likes": 8
+  },
+  {
+    "id": 3,
+    "name": "Sydney Harbour",
+    "category": "City",
+    "description": "An iconic Australian city destination with the Opera House and Harbour Bridge.",
+    "image": "sydney.jpg",
+    "location": "New South Wales",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "likes": 15
+  },
+  {
+    "id": 4,
+    "name": "Uluru",
+    "category": "Culture",
+    "description": "A significant cultural and natural landmark in the Northern Territory.",
+    "image": "uluru.jpg",
+    "location": "Northern Territory",
+    "lat": -25.3444,
+    "lon": 131.0369,
+    "likes": 10
+  }
+]
